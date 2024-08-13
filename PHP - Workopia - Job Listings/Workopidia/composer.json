@@ -1,0 +1,16 @@
+{
+    "name": "hramzi/workopia",
+    "description": "job listing application",
+    "authors": [
+        {
+            "name": "ramzi",
+            "email": "hennane.ramzeddine@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
